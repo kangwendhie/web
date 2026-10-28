@@ -1,4 +1,4 @@
-window.PORTAL_API_URL = "";
+window.PORTAL_API_URL = "https://portal.kangwendhie.my.id/";
 
 window.PORTAL_DEFAULT_DATA = {
   profile: {
