@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 720" role="img" aria-labelledby="title desc">
+  <title id="title">Placeholder foto guru</title>
+  <desc id="desc">Ganti file ini dengan foto guru bernama foto-guru.jpg atau ubah config.js.</desc>
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#dbeafe"/>
+      <stop offset="1" stop-color="#bfdbfe"/>
+    </linearGradient>
+  </defs>
+  <rect width="600" height="720" rx="40" fill="url(#g)"/>
+  <circle cx="300" cy="255" r="120" fill="#ffffff" opacity=".95"/>
+  <path d="M120 650c25-150 110-225 180-225s155 75 180 225" fill="#ffffff" opacity=".95"/>
+  <circle cx="300" cy="255" r="92" fill="#1d4ed8" opacity=".14"/>
+  <text x="300" y="282" text-anchor="middle" font-family="Arial, sans-serif" font-size="78" font-weight="700" fill="#1d4ed8">WT</text>
+  <text x="300" y="690" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" fill="#1e3a8a">Ganti dengan foto Anda</text>
+</svg>
